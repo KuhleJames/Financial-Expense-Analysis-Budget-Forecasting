@@ -1,0 +1,301 @@
+Month,Date_Month,Quarter,Date_Quarter,Updated_Date_Quarter,Year,Department,Cost_Category,Cost_Type,Project_Code,Budgeted_Amount,Actual_Amount,Approval_Status,Comments,Variance,Variance _Percentage
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Sales,Travel,Variable,PROJ001,14000,14500,Approved,Client visit expenses,500,3.6
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Sales,Salaries,Fixed,PROJ004,25000,25500,Approved,Monthly salaries,500,2
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,8000,9000,Pending,Laptop upgrades,1000,12.5
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Sales,Training,Fixed,PROJ003,6000,5900,Approved,Sales skills workshop,-100,-1.7
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Sales,Supplies,Variable,PROJ005,4000,3800,Approved,Office supplies,-200,-5
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Travel,Variable,PROJ006,15000,16000,Approved,Trade show attendance,1000,6.7
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Salaries,Fixed,PROJ007,23000,22000,Approved,Team salaries,-1000,-4.3
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,9000,9500,Pending,Ad campaign hardware,500,5.6
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Training,Fixed,PROJ008,7000,6800,Approved,Marketing certifications,-200,-2.9
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Supplies,Variable,PROJ005,3000,3100,Approved,Stationery,100,3.3
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,IT,Travel,Variable,PROJ001,10000,9500,Approved,Vendor visits,-500,-5
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,IT,Salaries,Fixed,PROJ004,27000,28000,Approved,Developer salaries,1000,3.7
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,IT,Equipment,Semi-Variable,PROJ002,15000,16000,Approved,Server upgrades,1000,6.7
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,IT,Training,Fixed,PROJ009,8000,8200,Approved,Cybersecurity training,200,2.5
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,IT,Supplies,Variable,PROJ005,3500,3300,Approved,Office supplies,-200,-5.7
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Operations,Travel,Variable,PROJ006,9000,8800,Approved,Site visits,-200,-2.2
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Operations,Salaries,Fixed,PROJ007,24000,23500,Approved,Operations salaries,-500,-2.1
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,11000,11500,Pending,Maintenance equipment,500,4.5
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Operations,Training,Fixed,PROJ008,6000,6100,Approved,Health & safety training,100,1.7
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,Operations,Supplies,Variable,PROJ005,3000,2900,Approved,Warehouse supplies,-100,-3.3
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,HR,Travel,Variable,PROJ001,8000,8500,Approved,Recruitment travel,500,6.3
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,HR,Salaries,Fixed,PROJ004,20000,20500,Approved,HR salaries,500,2.5
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,HR,Equipment,Semi-Variable,PROJ002,7000,6900,Rejected,Old equipment disposal,-100,-1.4
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,HR,Training,Fixed,PROJ003,5000,4800,Approved,Leadership workshops,-200,-4
+January,Jan-24,Q1,01/01/2024,Q1 2024,2024,HR,Supplies,Variable,PROJ005,2500,2600,Approved,Office supplies,100,4
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Sales,Travel,Variable,PROJ001,14500,14200,Approved,Client visit expenses,-300,-2.1
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Sales,Salaries,Fixed,PROJ004,25500,26000,Approved,Monthly salaries,500,2
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,8500,8300,Approved,Laptop upgrades,-200,-2.4
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Sales,Training,Fixed,PROJ003,6200,6300,Approved,Sales skills workshop,100,1.6
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Sales,Supplies,Variable,PROJ005,4200,4100,Approved,Office supplies,-100,-2.4
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Travel,Variable,PROJ006,15500,15800,Approved,Trade show attendance,300,1.9
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Salaries,Fixed,PROJ007,23500,23000,Approved,Team salaries,-500,-2.1
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,9500,9400,Pending,Ad campaign hardware,-100,-1.1
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Training,Fixed,PROJ008,7200,7100,Approved,Certifications,-100,-1.4
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Supplies,Variable,PROJ005,3200,3300,Approved,Stationery,100,3.1
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,IT,Travel,Variable,PROJ001,10500,10800,Approved,Vendor visits,300,2.9
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,IT,Salaries,Fixed,PROJ004,27500,28000,Approved,Developer salaries,500,1.8
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,IT,Equipment,Semi-Variable,PROJ002,15500,15800,Approved,Server upgrades,300,1.9
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,IT,Training,Fixed,PROJ009,8200,8100,Approved,Cybersecurity training,-100,-1.2
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,IT,Supplies,Variable,PROJ005,3600,3550,Approved,Office supplies,-50,-1.4
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Operations,Travel,Variable,PROJ006,9200,9000,Approved,Site visits,-200,-2.2
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Operations,Salaries,Fixed,PROJ007,24500,24000,Approved,Operations salaries,-500,-2
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,11200,11000,Pending,Maintenance equipment,-200,-1.8
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Operations,Training,Fixed,PROJ008,6100,6200,Approved,Health & safety training,100,1.6
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,Operations,Supplies,Variable,PROJ005,3100,3050,Approved,Warehouse supplies,-50,-1.6
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,HR,Travel,Variable,PROJ001,8200,8300,Approved,Recruitment travel,100,1.2
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,HR,Salaries,Fixed,PROJ004,20500,21000,Approved,HR salaries,500,2.4
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,HR,Equipment,Semi-Variable,PROJ002,7200,7100,Rejected,Old equipment disposal,-100,-1.4
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,HR,Training,Fixed,PROJ003,5100,5000,Approved,Leadership workshops,-100,-2
+February,Feb-24,Q1,01/01/2024,Q1 2024,2024,HR,Supplies,Variable,PROJ005,2600,2650,Approved,Office supplies,50,1.9
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Sales,Travel,Variable,PROJ001,15000,14700,Approved,Client visit expenses,-300,-2
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Sales,Salaries,Fixed,PROJ004,26000,26500,Approved,Monthly salaries,500,1.9
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,8700,8800,Approved,Laptop upgrades,100,1.1
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Sales,Training,Fixed,PROJ003,6300,6400,Approved,Sales skills workshop,100,1.6
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Sales,Supplies,Variable,PROJ005,4300,4200,Approved,Office supplies,-100,-2.3
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Travel,Variable,PROJ006,16000,16500,Approved,Trade show attendance,500,3.1
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Salaries,Fixed,PROJ007,24000,23500,Approved,Team salaries,-500,-2.1
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,9600,9700,Pending,Ad campaign hardware,100,1
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Training,Fixed,PROJ008,7300,7200,Approved,Certifications,-100,-1.4
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Marketing,Supplies,Variable,PROJ005,3300,3350,Approved,Stationery,50,1.5
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,IT,Travel,Variable,PROJ001,11000,11200,Approved,Vendor visits,200,1.8
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,IT,Salaries,Fixed,PROJ004,28000,28500,Approved,Developer salaries,500,1.8
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,IT,Equipment,Semi-Variable,PROJ002,16000,16500,Approved,Server upgrades,500,3.1
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,IT,Training,Fixed,PROJ009,8300,8400,Approved,Cybersecurity training,100,1.2
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,IT,Supplies,Variable,PROJ005,3700,3600,Approved,Office supplies,-100,-2.7
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Operations,Travel,Variable,PROJ006,9400,9300,Approved,Site visits,-100,-1.1
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Operations,Salaries,Fixed,PROJ007,25000,24500,Approved,Operations salaries,-500,-2
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,11300,11500,Pending,Maintenance equipment,200,1.8
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Operations,Training,Fixed,PROJ008,6200,6150,Approved,Health & safety training,-50,-0.8
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,Operations,Supplies,Variable,PROJ005,3150,3100,Approved,Warehouse supplies,-50,-1.6
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,HR,Travel,Variable,PROJ001,8300,8400,Approved,Recruitment travel,100,1.2
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,HR,Salaries,Fixed,PROJ004,21000,21500,Approved,HR salaries,500,2.4
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,HR,Equipment,Semi-Variable,PROJ002,7300,7200,Rejected,Old equipment disposal,-100,-1.4
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,HR,Training,Fixed,PROJ003,5200,5100,Approved,Leadership workshops,-100,-1.9
+March,Mar-24,Q1,01/01/2024,Q1 2024,2024,HR,Supplies,Variable,PROJ005,2700,2650,Approved,Office supplies,-50,-1.9
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Sales,Travel,Variable,PROJ001,15500,15000,Approved,Client visit expenses,-500,-3.2
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Sales,Salaries,Fixed,PROJ004,26500,27000,Approved,Monthly salaries,500,1.9
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,8800,8700,Approved,Laptop upgrades,-100,-1.1
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Sales,Training,Fixed,PROJ003,6400,6500,Approved,Sales skills workshop,100,1.6
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Sales,Supplies,Variable,PROJ005,4400,4300,Approved,Office supplies,-100,-2.3
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Travel,Variable,PROJ006,16500,17000,Approved,Trade show attendance,500,3
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Salaries,Fixed,PROJ007,24500,24000,Approved,Team salaries,-500,-2
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,9700,9600,Pending,Ad campaign hardware,-100,-1
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Training,Fixed,PROJ008,7400,7300,Approved,Certifications,-100,-1.4
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Supplies,Variable,PROJ005,3400,3350,Approved,Stationery,-50,-1.5
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,IT,Travel,Variable,PROJ001,11500,11700,Approved,Vendor visits,200,1.7
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,IT,Salaries,Fixed,PROJ004,28500,29000,Approved,Developer salaries,500,1.8
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,IT,Equipment,Semi-Variable,PROJ002,16500,17000,Approved,Server upgrades,500,3
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,IT,Training,Fixed,PROJ009,8400,8500,Approved,Cybersecurity training,100,1.2
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,IT,Supplies,Variable,PROJ005,3800,3750,Approved,Office supplies,-50,-1.3
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Operations,Travel,Variable,PROJ006,9500,9400,Approved,Site visits,-100,-1.1
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Operations,Salaries,Fixed,PROJ007,25500,25000,Approved,Operations salaries,-500,-2
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,11400,11600,Pending,Maintenance equipment,200,1.8
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Operations,Training,Fixed,PROJ008,6300,6250,Approved,Health & safety training,-50,-0.8
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,Operations,Supplies,Variable,PROJ005,3200,3150,Approved,Warehouse supplies,-50,-1.6
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,HR,Travel,Variable,PROJ001,8400,8500,Approved,Recruitment travel,100,1.2
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,HR,Salaries,Fixed,PROJ004,21500,22000,Approved,HR salaries,500,2.3
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,HR,Equipment,Semi-Variable,PROJ002,7400,7300,Rejected,Old equipment disposal,-100,-1.4
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,HR,Training,Fixed,PROJ003,5300,5250,Approved,Leadership workshops,-50,-0.9
+April,Apr-24,Q2,01/04/2024,Q2 2024,2024,HR,Supplies,Variable,PROJ005,2800,2750,Approved,Office supplies,-50,-1.8
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Sales,Travel,Variable,PROJ001,16000,15500,Approved,Client visit expenses,-500,-3.1
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Sales,Salaries,Fixed,PROJ004,27000,27500,Approved,Monthly salaries,500,1.9
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,8900,9000,Approved,Laptop upgrades,100,1.1
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Sales,Training,Fixed,PROJ003,6500,6600,Approved,Sales skills workshop,100,1.5
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Sales,Supplies,Variable,PROJ005,4500,4400,Approved,Office supplies,-100,-2.2
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Travel,Variable,PROJ006,17000,17500,Approved,Trade show attendance,500,2.9
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Salaries,Fixed,PROJ007,25000,24500,Approved,Team salaries,-500,-2
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,9800,9700,Pending,Ad campaign hardware,-100,-1
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Training,Fixed,PROJ008,7500,7400,Approved,Certifications,-100,-1.3
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Supplies,Variable,PROJ005,3500,3450,Approved,Stationery,-50,-1.4
+May,May-24,Q2,01/04/2024,Q2 2024,2024,IT,Travel,Variable,PROJ001,12000,12200,Approved,Vendor visits,200,1.7
+May,May-24,Q2,01/04/2024,Q2 2024,2024,IT,Salaries,Fixed,PROJ004,29000,29500,Approved,Developer salaries,500,1.7
+May,May-24,Q2,01/04/2024,Q2 2024,2024,IT,Equipment,Semi-Variable,PROJ002,17000,17500,Approved,Server upgrades,500,2.9
+May,May-24,Q2,01/04/2024,Q2 2024,2024,IT,Training,Fixed,PROJ009,8500,8600,Approved,Cybersecurity training,100,1.2
+May,May-24,Q2,01/04/2024,Q2 2024,2024,IT,Supplies,Variable,PROJ005,3900,3850,Approved,Office supplies,-50,-1.3
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Operations,Travel,Variable,PROJ006,9600,9500,Approved,Site visits,-100,-1
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Operations,Salaries,Fixed,PROJ007,26000,25500,Approved,Operations salaries,-500,-1.9
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,11500,11700,Pending,Maintenance equipment,200,1.7
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Operations,Training,Fixed,PROJ008,6400,6350,Approved,Health & safety training,-50,-0.8
+May,May-24,Q2,01/04/2024,Q2 2024,2024,Operations,Supplies,Variable,PROJ005,3250,3200,Approved,Warehouse supplies,-50,-1.5
+May,May-24,Q2,01/04/2024,Q2 2024,2024,HR,Travel,Variable,PROJ001,8500,8600,Approved,Recruitment travel,100,1.2
+May,May-24,Q2,01/04/2024,Q2 2024,2024,HR,Salaries,Fixed,PROJ004,22000,22500,Approved,HR salaries,500,2.3
+May,May-24,Q2,01/04/2024,Q2 2024,2024,HR,Equipment,Semi-Variable,PROJ002,7500,7400,Rejected,Old equipment disposal,-100,-1.3
+May,May-24,Q2,01/04/2024,Q2 2024,2024,HR,Training,Fixed,PROJ003,5400,5350,Approved,Leadership workshops,-50,-0.9
+May,May-24,Q2,01/04/2024,Q2 2024,2024,HR,Supplies,Variable,PROJ005,2850,2800,Approved,Office supplies,-50,-1.8
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Sales,Travel,Variable,PROJ001,16500,16000,Approved,Client visit expenses,-500,-3
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Sales,Salaries,Fixed,PROJ004,27500,28000,Approved,Monthly salaries,500,1.8
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,9000,9100,Approved,Laptop upgrades,100,1.1
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Sales,Training,Fixed,PROJ003,6600,6700,Approved,Sales skills workshop,100,1.5
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Sales,Supplies,Variable,PROJ005,4600,4500,Approved,Office supplies,-100,-2.2
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Travel,Variable,PROJ006,17500,18000,Approved,Trade show attendance,500,2.9
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Salaries,Fixed,PROJ007,25500,25000,Approved,Team salaries,-500,-2
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,9900,9850,Pending,Ad campaign hardware,-50,-0.5
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Training,Fixed,PROJ008,7600,7550,Approved,Certifications,-50,-0.7
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Marketing,Supplies,Variable,PROJ005,3600,3550,Approved,Stationery,-50,-1.4
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,IT,Travel,Variable,PROJ001,12500,12700,Approved,Vendor visits,200,1.6
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,IT,Salaries,Fixed,PROJ004,29500,30000,Approved,Developer salaries,500,1.7
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,IT,Equipment,Semi-Variable,PROJ002,17500,18000,Approved,Server upgrades,500,2.9
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,IT,Training,Fixed,PROJ009,8600,8700,Approved,Cybersecurity training,100,1.2
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,IT,Supplies,Variable,PROJ005,4000,3950,Approved,Office supplies,-50,-1.3
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Operations,Travel,Variable,PROJ006,9700,9600,Approved,Site visits,-100,-1
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Operations,Salaries,Fixed,PROJ007,26500,26000,Approved,Operations salaries,-500,-1.9
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,11600,11800,Pending,Maintenance equipment,200,1.7
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Operations,Training,Fixed,PROJ008,6500,6450,Approved,Health & safety training,-50,-0.8
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,Operations,Supplies,Variable,PROJ005,3300,3250,Approved,Warehouse supplies,-50,-1.5
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,HR,Travel,Variable,PROJ001,8600,8700,Approved,Recruitment travel,100,1.2
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,HR,Salaries,Fixed,PROJ004,22500,23000,Approved,HR salaries,500,2.2
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,HR,Equipment,Semi-Variable,PROJ002,7600,7500,Rejected,Old equipment disposal,-100,-1.3
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,HR,Training,Fixed,PROJ003,5500,5450,Approved,Leadership workshops,-50,-0.9
+June,Jun-24,Q2,01/04/2024,Q2 2024,2024,HR,Supplies,Variable,PROJ005,2900,2850,Approved,Office supplies,-50,-1.7
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Sales,Travel,Variable,PROJ001,17000,16500,Approved,Client visit expenses,-500,-2.9
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Sales,Salaries,Fixed,PROJ004,28000,28500,Approved,Monthly salaries,500,1.8
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,9100,9200,Approved,Laptop upgrades,100,1.1
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Sales,Training,Fixed,PROJ003,6700,6800,Approved,Sales skills workshop,100,1.5
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Sales,Supplies,Variable,PROJ005,4700,4600,Approved,Office supplies,-100,-2.1
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Travel,Variable,PROJ006,18000,18500,Approved,Trade show attendance,500,2.8
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Salaries,Fixed,PROJ007,26000,25500,Approved,Team salaries,-500,-1.9
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,10000,9950,Pending,Ad campaign hardware,-50,-0.5
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Training,Fixed,PROJ008,7700,7650,Approved,Certifications,-50,-0.6
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Supplies,Variable,PROJ005,3700,3650,Approved,Stationery,-50,-1.4
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,IT,Travel,Variable,PROJ001,13000,13200,Approved,Vendor visits,200,1.5
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,IT,Salaries,Fixed,PROJ004,30000,30500,Approved,Developer salaries,500,1.7
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,IT,Equipment,Semi-Variable,PROJ002,18000,18500,Approved,Server upgrades,500,2.8
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,IT,Training,Fixed,PROJ009,8700,8800,Approved,Cybersecurity training,100,1.1
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,IT,Supplies,Variable,PROJ005,4100,4000,Approved,Office supplies,-100,-2.4
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Operations,Travel,Variable,PROJ006,9800,9700,Approved,Site visits,-100,-1
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Operations,Salaries,Fixed,PROJ007,27000,26500,Approved,Operations salaries,-500,-1.9
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,11700,11900,Pending,Maintenance equipment,200,1.7
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Operations,Training,Fixed,PROJ008,6600,6550,Approved,Health & safety training,-50,-0.8
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,Operations,Supplies,Variable,PROJ005,3350,3300,Approved,Warehouse supplies,-50,-1.5
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,HR,Travel,Variable,PROJ001,8700,8800,Approved,Recruitment travel,100,1.1
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,HR,Salaries,Fixed,PROJ004,23000,23500,Approved,HR salaries,500,2.2
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,HR,Equipment,Semi-Variable,PROJ002,7700,7600,Rejected,Old equipment disposal,-100,-1.3
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,HR,Training,Fixed,PROJ003,5600,5550,Approved,Leadership workshops,-50,-0.9
+July,Jul-24,Q3,01/07/2024,Q3 2024,2024,HR,Supplies,Variable,PROJ005,2950,2900,Approved,Office supplies,-50,-1.7
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Sales,Travel,Variable,PROJ001,17500,17000,Approved,Client visit expenses,-500,-2.9
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Sales,Salaries,Fixed,PROJ004,28500,29000,Approved,Monthly salaries,500,1.8
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,9200,9300,Approved,Laptop upgrades,100,1.1
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Sales,Training,Fixed,PROJ003,6800,6900,Approved,Sales skills workshop,100,1.5
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Sales,Supplies,Variable,PROJ005,4800,4700,Approved,Office supplies,-100,-2.1
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Travel,Variable,PROJ006,18500,19000,Approved,Trade show attendance,500,2.7
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Salaries,Fixed,PROJ007,26500,26000,Approved,Team salaries,-500,-1.9
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,10100,10000,Pending,Ad campaign hardware,-100,-1
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Training,Fixed,PROJ008,7800,7750,Approved,Certifications,-50,-0.6
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Supplies,Variable,PROJ005,3800,3750,Approved,Stationery,-50,-1.3
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,IT,Travel,Variable,PROJ001,13500,13700,Approved,Vendor visits,200,1.5
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,IT,Salaries,Fixed,PROJ004,30500,31000,Approved,Developer salaries,500,1.6
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,IT,Equipment,Semi-Variable,PROJ002,18500,19000,Approved,Server upgrades,500,2.7
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,IT,Training,Fixed,PROJ009,8800,8900,Approved,Cybersecurity training,100,1.1
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,IT,Supplies,Variable,PROJ005,4200,4150,Approved,Office supplies,-50,-1.2
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Operations,Travel,Variable,PROJ006,9900,9800,Approved,Site visits,-100,-1
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Operations,Salaries,Fixed,PROJ007,27500,27000,Approved,Operations salaries,-500,-1.8
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,11800,12000,Pending,Maintenance equipment,200,1.7
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Operations,Training,Fixed,PROJ008,6700,6650,Approved,Health & safety training,-50,-0.7
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,Operations,Supplies,Variable,PROJ005,3400,3350,Approved,Warehouse supplies,-50,-1.5
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,HR,Travel,Variable,PROJ001,8800,8900,Approved,Recruitment travel,100,1.1
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,HR,Salaries,Fixed,PROJ004,23500,24000,Approved,HR salaries,500,2.1
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,HR,Equipment,Semi-Variable,PROJ002,7800,7700,Rejected,Old equipment disposal,-100,-1.3
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,HR,Training,Fixed,PROJ003,5700,5650,Approved,Leadership workshops,-50,-0.9
+August,Aug-24,Q3,01/07/2024,Q3 2024,2024,HR,Supplies,Variable,PROJ005,3000,2950,Approved,Office supplies,-50,-1.7
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Sales,Travel,Variable,PROJ001,18000,17500,Approved,Client visit expenses,-500,-2.8
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Sales,Salaries,Fixed,PROJ004,29000,29500,Approved,Monthly salaries,500,1.7
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,9300,9400,Approved,Laptop upgrades,100,1.1
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Sales,Training,Fixed,PROJ003,6900,7000,Approved,Sales skills workshop,100,1.4
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Sales,Supplies,Variable,PROJ005,4900,4800,Approved,Office supplies,-100,-2
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Travel,Variable,PROJ006,19000,19500,Approved,Trade show attendance,500,2.6
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Salaries,Fixed,PROJ007,27000,26500,Approved,Team salaries,-500,-1.9
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,10200,10100,Pending,Ad campaign hardware,-100,-1
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Training,Fixed,PROJ008,7900,7850,Approved,Certifications,-50,-0.6
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Marketing,Supplies,Variable,PROJ005,3900,3850,Approved,Stationery,-50,-1.3
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,IT,Travel,Variable,PROJ001,14000,14200,Approved,Vendor visits,200,1.4
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,IT,Salaries,Fixed,PROJ004,31000,31500,Approved,Developer salaries,500,1.6
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,IT,Equipment,Semi-Variable,PROJ002,19000,19500,Approved,Server upgrades,500,2.6
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,IT,Training,Fixed,PROJ009,8900,9000,Approved,Cybersecurity training,100,1.1
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,IT,Supplies,Variable,PROJ005,4300,4250,Approved,Office supplies,-50,-1.2
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Operations,Travel,Variable,PROJ006,10000,9950,Approved,Site visits,-50,-0.5
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Operations,Salaries,Fixed,PROJ007,28000,27500,Approved,Operations salaries,-500,-1.8
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,11900,12100,Pending,Maintenance equipment,200,1.7
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Operations,Training,Fixed,PROJ008,6800,6750,Approved,Health & safety training,-50,-0.7
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,Operations,Supplies,Variable,PROJ005,3450,3400,Approved,Warehouse supplies,-50,-1.4
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,HR,Travel,Variable,PROJ001,8900,9000,Approved,Recruitment travel,100,1.1
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,HR,Salaries,Fixed,PROJ004,24000,24500,Approved,HR salaries,500,2.1
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,HR,Equipment,Semi-Variable,PROJ002,7900,7800,Rejected,Old equipment disposal,-100,-1.3
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,HR,Training,Fixed,PROJ003,5800,5750,Approved,Leadership workshops,-50,-0.9
+September,Sep-24,Q3,01/07/2024,Q3 2024,2024,HR,Supplies,Variable,PROJ005,3050,3000,Approved,Office supplies,-50,-1.6
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Sales,Travel,Variable,PROJ001,18500,18000,Approved,Client visit expenses,-500,-2.7
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Sales,Salaries,Fixed,PROJ004,29500,30000,Approved,Monthly salaries,500,1.7
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,9400,9500,Approved,Laptop upgrades,100,1.1
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Sales,Training,Fixed,PROJ003,7000,7100,Approved,Sales skills workshop,100,1.4
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Sales,Supplies,Variable,PROJ005,5000,4900,Approved,Office supplies,-100,-2
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Travel,Variable,PROJ006,19500,20000,Approved,Trade show attendance,500,2.6
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Salaries,Fixed,PROJ007,27500,27000,Approved,Team salaries,-500,-1.8
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,10300,10200,Pending,Ad campaign hardware,-100,-1
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Training,Fixed,PROJ008,8000,7950,Approved,Certifications,-50,-0.6
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Supplies,Variable,PROJ005,4000,3950,Approved,Stationery,-50,-1.3
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,IT,Travel,Variable,PROJ001,14500,14700,Approved,Vendor visits,200,1.4
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,IT,Salaries,Fixed,PROJ004,31500,32000,Approved,Developer salaries,500,1.6
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,IT,Equipment,Semi-Variable,PROJ002,19500,20000,Approved,Server upgrades,500,2.6
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,IT,Training,Fixed,PROJ009,9000,9100,Approved,Cybersecurity training,100,1.1
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,IT,Supplies,Variable,PROJ005,4400,4350,Approved,Office supplies,-50,-1.1
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Operations,Travel,Variable,PROJ006,10100,10000,Approved,Site visits,-100,-1
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Operations,Salaries,Fixed,PROJ007,28500,28000,Approved,Operations salaries,-500,-1.8
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,12000,12200,Pending,Maintenance equipment,200,1.7
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Operations,Training,Fixed,PROJ008,6900,6850,Approved,Health & safety training,-50,-0.7
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,Operations,Supplies,Variable,PROJ005,3500,3450,Approved,Warehouse supplies,-50,-1.4
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,HR,Travel,Variable,PROJ001,9000,9100,Approved,Recruitment travel,100,1.1
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,HR,Salaries,Fixed,PROJ004,24500,25000,Approved,HR salaries,500,2
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,HR,Equipment,Semi-Variable,PROJ002,8000,7900,Rejected,Old equipment disposal,-100,-1.3
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,HR,Training,Fixed,PROJ003,5900,5850,Approved,Leadership workshops,-50,-0.8
+October,Oct-24,Q4,01/10/2024,Q4 2024,2024,HR,Supplies,Variable,PROJ005,3100,3050,Approved,Office supplies,-50,-1.6
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Sales,Travel,Variable,PROJ001,19000,18500,Approved,Client visit expenses,-500,-2.6
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Sales,Salaries,Fixed,PROJ004,30000,30500,Approved,Monthly salaries,500,1.7
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,9500,9600,Approved,Laptop upgrades,100,1.1
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Sales,Training,Fixed,PROJ003,7100,7200,Approved,Sales skills workshop,100,1.4
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Sales,Supplies,Variable,PROJ005,5100,5000,Approved,Office supplies,-100,-2
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Travel,Variable,PROJ006,20000,20500,Approved,Trade show attendance,500,2.5
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Salaries,Fixed,PROJ007,28000,27500,Approved,Team salaries,-500,-1.8
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,10400,10300,Pending,Ad campaign hardware,-100,-1
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Training,Fixed,PROJ008,8100,8050,Approved,Certifications,-50,-0.6
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Supplies,Variable,PROJ005,4100,4050,Approved,Stationery,-50,-1.2
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,IT,Travel,Variable,PROJ001,15000,15200,Approved,Vendor visits,200,1.3
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,IT,Salaries,Fixed,PROJ004,32000,32500,Approved,Developer salaries,500,1.6
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,IT,Equipment,Semi-Variable,PROJ002,20000,20500,Approved,Server upgrades,500,2.5
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,IT,Training,Fixed,PROJ009,9100,9200,Approved,Cybersecurity training,100,1.1
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,IT,Supplies,Variable,PROJ005,4500,4450,Approved,Office supplies,-50,-1.1
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Operations,Travel,Variable,PROJ006,10200,10100,Approved,Site visits,-100,-1
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Operations,Salaries,Fixed,PROJ007,29000,28500,Approved,Operations salaries,-500,-1.7
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,12100,12300,Pending,Maintenance equipment,200,1.7
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Operations,Training,Fixed,PROJ008,7000,6950,Approved,Health & safety training,-50,-0.7
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,Operations,Supplies,Variable,PROJ005,3550,3500,Approved,Warehouse supplies,-50,-1.4
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,HR,Travel,Variable,PROJ001,9100,9200,Approved,Recruitment travel,100,1.1
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,HR,Salaries,Fixed,PROJ004,25000,25500,Approved,HR salaries,500,2
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,HR,Equipment,Semi-Variable,PROJ002,8100,8000,Rejected,Old equipment disposal,-100,-1.2
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,HR,Training,Fixed,PROJ003,6000,5950,Approved,Leadership workshops,-50,-0.8
+November,Nov-24,Q4,01/10/2024,Q4 2024,2024,HR,Supplies,Variable,PROJ005,3150,3100,Approved,Office supplies,-50,-1.6
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Sales,Travel,Variable,PROJ001,19500,19000,Approved,Client visit expenses,-500,-2.6
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Sales,Salaries,Fixed,PROJ004,30500,31000,Approved,Monthly salaries,500,1.6
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Sales,Equipment,Semi-Variable,PROJ002,9600,9700,Approved,Laptop upgrades,100,1
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Sales,Training,Fixed,PROJ003,7200,7300,Approved,Sales skills workshop,100,1.4
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Sales,Supplies,Variable,PROJ005,5200,5100,Approved,Office supplies,-100,-1.9
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Travel,Variable,PROJ006,20500,21000,Approved,Trade show attendance,500,2.4
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Salaries,Fixed,PROJ007,28500,28000,Approved,Team salaries,-500,-1.8
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Equipment,Semi-Variable,PROJ002,10500,10400,Pending,Ad campaign hardware,-100,-1
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Training,Fixed,PROJ008,8200,8150,Approved,Certifications,-50,-0.6
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Marketing,Supplies,Variable,PROJ005,4200,4150,Approved,Stationery,-50,-1.2
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,IT,Travel,Variable,PROJ001,15500,15700,Approved,Vendor visits,200,1.3
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,IT,Salaries,Fixed,PROJ004,32500,33000,Approved,Developer salaries,500,1.5
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,IT,Equipment,Semi-Variable,PROJ002,20500,21000,Approved,Server upgrades,500,2.4
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,IT,Training,Fixed,PROJ009,9200,9300,Approved,Cybersecurity training,100,1.1
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,IT,Supplies,Variable,PROJ005,4600,4550,Approved,Office supplies,-50,-1.1
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Operations,Travel,Variable,PROJ006,10300,10200,Approved,Site visits,-100,-1
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Operations,Salaries,Fixed,PROJ007,29500,29000,Approved,Operations salaries,-500,-1.7
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Operations,Equipment,Semi-Variable,PROJ002,12200,12400,Pending,Maintenance equipment,200,1.6
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Operations,Training,Fixed,PROJ008,7100,7050,Approved,Health & safety training,-50,-0.7
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,Operations,Supplies,Variable,PROJ005,3600,3550,Approved,Warehouse supplies,-50,-1.4
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,HR,Travel,Variable,PROJ001,9200,9300,Approved,Recruitment travel,100,1.1
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,HR,Salaries,Fixed,PROJ004,25500,26000,Approved,HR salaries,500,2
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,HR,Equipment,Semi-Variable,PROJ002,8200,8100,Rejected,Old equipment disposal,-100,-1.2
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,HR,Training,Fixed,PROJ003,6100,6050,Approved,Leadership workshops,-50,-0.8
+December,Dec-24,Q4,01/10/2024,Q4 2024,2024,HR,Supplies,Variable,PROJ005,3200,3150,Approved,Office supplies,-50,-1.6

@@ -1,0 +1,301 @@
+Month,Quarter,Department,Cost Category,Cost Type,Project Code,Budgeted Amount,Actual Amount,Approval Status,Comments
+January,Q1,Sales,Travel,Variable,PROJ001,14000,14500,Approved,Client visit expenses
+January,Q1,Sales,Salaries,Fixed,PROJ004,25000,25500,Approved,Monthly salaries payout
+January,Q1,Sales,Equipment,Semi-Variable,PROJ002,8000,9000,Pending,Laptop upgrades
+January,Q1,Sales,Training,Fixed,PROJ003,6000,5900,Approved,Sales skills workshop
+January,Q1,Sales,Supplies,Variable,PROJ005,4000,3800,Approved,Office consumables
+January,Q1,Marketing,Travel,Variable,PROJ006,15000,16000,Approved,Trade show attendance
+January,Q1,Marketing,Salaries,Fixed,PROJ007,23000,22000,Approved,Team salaries
+January,Q1,Marketing,Equipment,Semi-Variable,PROJ002,9000,9500,Pending,Ad campaign hardware
+January,Q1,Marketing,Training,Fixed,PROJ008,7000,6800,Approved,Marketing certifications
+January,Q1,Marketing,Supplies,Variable,PROJ005,3000,3100,Approved,Stationery
+January,Q1,IT,Travel,Variable,PROJ001,10000,9500,Approved,Vendor visits
+January,Q1,IT,Salaries,Fixed,PROJ004,27000,28000,Approved,Developer salaries
+January,Q1,IT,Equipment,Semi-Variable,PROJ002,15000,16000,Approved,Server upgrades
+January,Q1,IT,Training,Fixed,PROJ009,8000,8200,Approved,Cybersecurity training
+January,Q1,IT,Supplies,Variable,PROJ005,3500,3300,Approved,Office supplies
+January,Q1,Operations,Travel,Variable,PROJ006,9000,8800,Approved,Site visits
+January,Q1,Operations,Salaries,Fixed,PROJ007,24000,23500,Approved,Operations salaries
+January,Q1,Operations,Equipment,Semi-Variable,PROJ002,11000,11500,Pending,Maintenance equipment
+January,Q1,Operations,Training,Fixed,PROJ008,6000,6100,Approved,Health & safety training
+January,Q1,Operations,Supplies,Variable,PROJ005,3000,2900,Approved,Warehouse consumables
+January,Q1,HR,Travel,Variable,PROJ001,8000,8500,Approved,Recruitment travel
+January,Q1,HR,Salaries,Fixed,PROJ004,20000,20500,Approved,HR salaries
+January,Q1,HR,Equipment,Semi-Variable,PROJ002,7000,6900,Rejected,Old equipment disposal
+January,Q1,HR,Training,Fixed,PROJ003,5000,4800,Approved,Leadership workshops
+January,Q1,HR,Supplies,Variable,PROJ005,2500,2600,Approved,Office supplies
+February,Q1,Sales,Travel,Variable,PROJ001,14500,14200,Approved,Client visits
+February,Q1,Sales,Salaries,Fixed,PROJ004,25500,26000,Approved,Monthly salaries
+February,Q1,Sales,Equipment,Semi-Variable,PROJ002,8500,8300,Approved,Laptop replacements
+February,Q1,Sales,Training,Fixed,PROJ003,6200,6300,Approved,Sales workshop
+February,Q1,Sales,Supplies,Variable,PROJ005,4200,4100,Approved,Office consumables
+February,Q1,Marketing,Travel,Variable,PROJ006,15500,15800,Approved,Trade shows
+February,Q1,Marketing,Salaries,Fixed,PROJ007,23500,23000,Approved,Team salaries
+February,Q1,Marketing,Equipment,Semi-Variable,PROJ002,9500,9400,Pending,Ad hardware
+February,Q1,Marketing,Training,Fixed,PROJ008,7200,7100,Approved,Certifications
+February,Q1,Marketing,Supplies,Variable,PROJ005,3200,3300,Approved,Stationery
+February,Q1,IT,Travel,Variable,PROJ001,10500,10800,Approved,Vendor visits
+February,Q1,IT,Salaries,Fixed,PROJ004,27500,28000,Approved,Developer salaries
+February,Q1,IT,Equipment,Semi-Variable,PROJ002,15500,15800,Approved,Server upgrades
+February,Q1,IT,Training,Fixed,PROJ009,8200,8100,Approved,Cybersecurity training
+February,Q1,IT,Supplies,Variable,PROJ005,3600,3550,Approved,Office supplies
+February,Q1,Operations,Travel,Variable,PROJ006,9200,9000,Approved,Site visits
+February,Q1,Operations,Salaries,Fixed,PROJ007,24500,24000,Approved,Operations salaries
+February,Q1,Operations,Equipment,Semi-Variable,PROJ002,11200,11000,Pending,Maintenance
+February,Q1,Operations,Training,Fixed,PROJ008,6100,6200,Approved,Health & safety
+February,Q1,Operations,Supplies,Variable,PROJ005,3100,3050,Approved,Warehouse supplies
+February,Q1,HR,Travel,Variable,PROJ001,8200,8300,Approved,Recruitment travel
+February,Q1,HR,Salaries,Fixed,PROJ004,20500,21000,Approved,HR salaries
+February,Q1,HR,Equipment,Semi-Variable,PROJ002,7200,7100,Rejected,Old equipment
+February,Q1,HR,Training,Fixed,PROJ003,5100,5000,Approved,Leadership training
+February,Q1,HR,Supplies,Variable,PROJ005,2600,2650,Approved,Office supplies
+March,Q1,Sales,Travel,Variable,PROJ001,15000,14700,Approved,Client visits
+March,Q1,Sales,Salaries,Fixed,PROJ004,26000,26500,Approved,Monthly salaries
+March,Q1,Sales,Equipment,Semi-Variable,PROJ002,8700,8800,Approved,Laptop upgrades
+March,Q1,Sales,Training,Fixed,PROJ003,6300,6400,Approved,Sales workshop
+March,Q1,Sales,Supplies,Variable,PROJ005,4300,4200,Approved,Office consumables
+March,Q1,Marketing,Travel,Variable,PROJ006,16000,16500,Approved,Trade shows
+March,Q1,Marketing,Salaries,Fixed,PROJ007,24000,23500,Approved,Team salaries
+March,Q1,Marketing,Equipment,Semi-Variable,PROJ002,9600,9700,Pending,Ad hardware
+March,Q1,Marketing,Training,Fixed,PROJ008,7300,7200,Approved,Certifications
+March,Q1,Marketing,Supplies,Variable,PROJ005,3300,3350,Approved,Stationery
+March,Q1,IT,Travel,Variable,PROJ001,11000,11200,Approved,Vendor visits
+March,Q1,IT,Salaries,Fixed,PROJ004,28000,28500,Approved,Developer salaries
+March,Q1,IT,Equipment,Semi-Variable,PROJ002,16000,16500,Approved,Server upgrades
+March,Q1,IT,Training,Fixed,PROJ009,8300,8400,Approved,Cybersecurity training
+March,Q1,IT,Supplies,Variable,PROJ005,3700,3600,Approved,Office supplies
+March,Q1,Operations,Travel,Variable,PROJ006,9400,9300,Approved,Site visits
+March,Q1,Operations,Salaries,Fixed,PROJ007,25000,24500,Approved,Operations salaries
+March,Q1,Operations,Equipment,Semi-Variable,PROJ002,11300,11500,Pending,Maintenance
+March,Q1,Operations,Training,Fixed,PROJ008,6200,6150,Approved,Health & safety
+March,Q1,Operations,Supplies,Variable,PROJ005,3150,3100,Approved,Warehouse supplies
+March,Q1,HR,Travel,Variable,PROJ001,8300,8400,Approved,Recruitment travel
+March,Q1,HR,Salaries,Fixed,PROJ004,21000,21500,Approved,HR salaries
+March,Q1,HR,Equipment,Semi-Variable,PROJ002,7300,7200,Rejected,Old equipment
+March,Q1,HR,Training,Fixed,PROJ003,5200,5100,Approved,Leadership training
+March,Q1,HR,Supplies,Variable,PROJ005,2700,2650,Approved,Office supplies
+April,Q2,Sales,Travel,Variable,PROJ001,15500,15000,Approved,Client visits
+April,Q2,Sales,Salaries,Fixed,PROJ004,26500,27000,Approved,Monthly salaries
+April,Q2,Sales,Equipment,Semi-Variable,PROJ002,8800,8700,Approved,Laptop upgrades
+April,Q2,Sales,Training,Fixed,PROJ003,6400,6500,Approved,Sales workshop
+April,Q2,Sales,Supplies,Variable,PROJ005,4400,4300,Approved,Office consumables
+April,Q2,Marketing,Travel,Variable,PROJ006,16500,17000,Approved,Trade shows
+April,Q2,Marketing,Salaries,Fixed,PROJ007,24500,24000,Approved,Team salaries
+April,Q2,Marketing,Equipment,Semi-Variable,PROJ002,9700,9600,Pending,Ad hardware
+April,Q2,Marketing,Training,Fixed,PROJ008,7400,7300,Approved,Certifications
+April,Q2,Marketing,Supplies,Variable,PROJ005,3400,3350,Approved,Stationery
+April,Q2,IT,Travel,Variable,PROJ001,11500,11700,Approved,Vendor visits
+April,Q2,IT,Salaries,Fixed,PROJ004,28500,29000,Approved,Developer salaries
+April,Q2,IT,Equipment,Semi-Variable,PROJ002,16500,17000,Approved,Server upgrades
+April,Q2,IT,Training,Fixed,PROJ009,8400,8500,Approved,Cybersecurity training
+April,Q2,IT,Supplies,Variable,PROJ005,3800,3750,Approved,Office supplies
+April,Q2,Operations,Travel,Variable,PROJ006,9500,9400,Approved,Site visits
+April,Q2,Operations,Salaries,Fixed,PROJ007,25500,25000,Approved,Operations salaries
+April,Q2,Operations,Equipment,Semi-Variable,PROJ002,11400,11600,Pending,Maintenance
+April,Q2,Operations,Training,Fixed,PROJ008,6300,6250,Approved,Health & safety
+April,Q2,Operations,Supplies,Variable,PROJ005,3200,3150,Approved,Warehouse supplies
+April,Q2,HR,Travel,Variable,PROJ001,8400,8500,Approved,Recruitment travel
+April,Q2,HR,Salaries,Fixed,PROJ004,21500,22000,Approved,HR salaries
+April,Q2,HR,Equipment,Semi-Variable,PROJ002,7400,7300,Rejected,Old equipment
+April,Q2,HR,Training,Fixed,PROJ003,5300,5250,Approved,Leadership training
+April,Q2,HR,Supplies,Variable,PROJ005,2800,2750,Approved,Office supplies
+May,Q2,Sales,Travel,Variable,PROJ001,16000,15500,Approved,Client visits
+May,Q2,Sales,Salaries,Fixed,PROJ004,27000,27500,Approved,Monthly salaries
+May,Q2,Sales,Equipment,Semi-Variable,PROJ002,8900,9000,Approved,Laptop upgrades
+May,Q2,Sales,Training,Fixed,PROJ003,6500,6600,Approved,Sales workshop
+May,Q2,Sales,Supplies,Variable,PROJ005,4500,4400,Approved,Office consumables
+May,Q2,Marketing,Travel,Variable,PROJ006,17000,17500,Approved,Trade shows
+May,Q2,Marketing,Salaries,Fixed,PROJ007,25000,24500,Approved,Team salaries
+May,Q2,Marketing,Equipment,Semi-Variable,PROJ002,9800,9700,Pending,Ad hardware
+May,Q2,Marketing,Training,Fixed,PROJ008,7500,7400,Approved,Certifications
+May,Q2,Marketing,Supplies,Variable,PROJ005,3500,3450,Approved,Stationery
+May,Q2,IT,Travel,Variable,PROJ001,12000,12200,Approved,Vendor visits
+May,Q2,IT,Salaries,Fixed,PROJ004,29000,29500,Approved,Developer salaries
+May,Q2,IT,Equipment,Semi-Variable,PROJ002,17000,17500,Approved,Server upgrades
+May,Q2,IT,Training,Fixed,PROJ009,8500,8600,Approved,Cybersecurity training
+May,Q2,IT,Supplies,Variable,PROJ005,3900,3850,Approved,Office supplies
+May,Q2,Operations,Travel,Variable,PROJ006,9600,9500,Approved,Site visits
+May,Q2,Operations,Salaries,Fixed,PROJ007,26000,25500,Approved,Operations salaries
+May,Q2,Operations,Equipment,Semi-Variable,PROJ002,11500,11700,Pending,Maintenance
+May,Q2,Operations,Training,Fixed,PROJ008,6400,6350,Approved,Health & safety
+May,Q2,Operations,Supplies,Variable,PROJ005,3250,3200,Approved,Warehouse supplies
+May,Q2,HR,Travel,Variable,PROJ001,8500,8600,Approved,Recruitment travel
+May,Q2,HR,Salaries,Fixed,PROJ004,22000,22500,Approved,HR salaries
+May,Q2,HR,Equipment,Semi-Variable,PROJ002,7500,7400,Rejected,Old equipment
+May,Q2,HR,Training,Fixed,PROJ003,5400,5350,Approved,Leadership training
+May,Q2,HR,Supplies,Variable,PROJ005,2850,2800,Approved,Office supplies
+June,Q2,Sales,Travel,Variable,PROJ001,16500,16000,Approved,Client visits
+June,Q2,Sales,Salaries,Fixed,PROJ004,27500,28000,Approved,Monthly salaries
+June,Q2,Sales,Equipment,Semi-Variable,PROJ002,9000,9100,Approved,Laptop upgrades
+June,Q2,Sales,Training,Fixed,PROJ003,6600,6700,Approved,Sales workshop
+June,Q2,Sales,Supplies,Variable,PROJ005,4600,4500,Approved,Office consumables
+June,Q2,Marketing,Travel,Variable,PROJ006,17500,18000,Approved,Trade shows
+June,Q2,Marketing,Salaries,Fixed,PROJ007,25500,25000,Approved,Team salaries
+June,Q2,Marketing,Equipment,Semi-Variable,PROJ002,9900,9850,Pending,Ad hardware
+June,Q2,Marketing,Training,Fixed,PROJ008,7600,7550,Approved,Certifications
+June,Q2,Marketing,Supplies,Variable,PROJ005,3600,3550,Approved,Stationery
+June,Q2,IT,Travel,Variable,PROJ001,12500,12700,Approved,Vendor visits
+June,Q2,IT,Salaries,Fixed,PROJ004,29500,30000,Approved,Developer salaries
+June,Q2,IT,Equipment,Semi-Variable,PROJ002,17500,18000,Approved,Server upgrades
+June,Q2,IT,Training,Fixed,PROJ009,8600,8700,Approved,Cybersecurity training
+June,Q2,IT,Supplies,Variable,PROJ005,4000,3950,Approved,Office supplies
+June,Q2,Operations,Travel,Variable,PROJ006,9700,9600,Approved,Site visits
+June,Q2,Operations,Salaries,Fixed,PROJ007,26500,26000,Approved,Operations salaries
+June,Q2,Operations,Equipment,Semi-Variable,PROJ002,11600,11800,Pending,Maintenance
+June,Q2,Operations,Training,Fixed,PROJ008,6500,6450,Approved,Health & safety
+June,Q2,Operations,Supplies,Variable,PROJ005,3300,3250,Approved,Warehouse supplies
+June,Q2,HR,Travel,Variable,PROJ001,8600,8700,Approved,Recruitment travel
+June,Q2,HR,Salaries,Fixed,PROJ004,22500,23000,Approved,HR salaries
+June,Q2,HR,Equipment,Semi-Variable,PROJ002,7600,7500,Rejected,Old equipment
+June,Q2,HR,Training,Fixed,PROJ003,5500,5450,Approved,Leadership training
+June,Q2,HR,Supplies,Variable,PROJ005,2900,2850,Approved,Office supplies
+July,Q3,Sales,Travel,Variable,PROJ001,17000,16500,Approved,Client visits
+July,Q3,Sales,Salaries,Fixed,PROJ004,28000,28500,Approved,Monthly salaries
+July,Q3,Sales,Equipment,Semi-Variable,PROJ002,9100,9200,Approved,Laptop upgrades
+July,Q3,Sales,Training,Fixed,PROJ003,6700,6800,Approved,Sales workshop
+July,Q3,Sales,Supplies,Variable,PROJ005,4700,4600,Approved,Office consumables
+July,Q3,Marketing,Travel,Variable,PROJ006,18000,18500,Approved,Trade shows
+July,Q3,Marketing,Salaries,Fixed,PROJ007,26000,25500,Approved,Team salaries
+July,Q3,Marketing,Equipment,Semi-Variable,PROJ002,10000,9950,Pending,Ad hardware
+July,Q3,Marketing,Training,Fixed,PROJ008,7700,7650,Approved,Certifications
+July,Q3,Marketing,Supplies,Variable,PROJ005,3700,3650,Approved,Stationery
+July,Q3,IT,Travel,Variable,PROJ001,13000,13200,Approved,Vendor visits
+July,Q3,IT,Salaries,Fixed,PROJ004,30000,30500,Approved,Developer salaries
+July,Q3,IT,Equipment,Semi-Variable,PROJ002,18000,18500,Approved,Server upgrades
+July,Q3,IT,Training,Fixed,PROJ009,8700,8800,Approved,Cybersecurity training
+July,Q3,IT,Supplies,Variable,PROJ005,4100,4000,Approved,Office supplies
+July,Q3,Operations,Travel,Variable,PROJ006,9800,9700,Approved,Site visits
+July,Q3,Operations,Salaries,Fixed,PROJ007,27000,26500,Approved,Operations salaries
+July,Q3,Operations,Equipment,Semi-Variable,PROJ002,11700,11900,Pending,Maintenance
+July,Q3,Operations,Training,Fixed,PROJ008,6600,6550,Approved,Health & safety
+July,Q3,Operations,Supplies,Variable,PROJ005,3350,3300,Approved,Warehouse supplies
+July,Q3,HR,Travel,Variable,PROJ001,8700,8800,Approved,Recruitment travel
+July,Q3,HR,Salaries,Fixed,PROJ004,23000,23500,Approved,HR salaries
+July,Q3,HR,Equipment,Semi-Variable,PROJ002,7700,7600,Rejected,Old equipment
+July,Q3,HR,Training,Fixed,PROJ003,5600,5550,Approved,Leadership training
+July,Q3,HR,Supplies,Variable,PROJ005,2950,2900,Approved,Office supplies
+August,Q3,Sales,Travel,Variable,PROJ001,17500,17000,Approved,Client visits
+August,Q3,Sales,Salaries,Fixed,PROJ004,28500,29000,Approved,Monthly salaries
+August,Q3,Sales,Equipment,Semi-Variable,PROJ002,9200,9300,Approved,Laptop upgrades
+August,Q3,Sales,Training,Fixed,PROJ003,6800,6900,Approved,Sales workshop
+August,Q3,Sales,Supplies,Variable,PROJ005,4800,4700,Approved,Office consumables
+August,Q3,Marketing,Travel,Variable,PROJ006,18500,19000,Approved,Trade shows
+August,Q3,Marketing,Salaries,Fixed,PROJ007,26500,26000,Approved,Team salaries
+August,Q3,Marketing,Equipment,Semi-Variable,PROJ002,10100,10000,Pending,Ad hardware
+August,Q3,Marketing,Training,Fixed,PROJ008,7800,7750,Approved,Certifications
+August,Q3,Marketing,Supplies,Variable,PROJ005,3800,3750,Approved,Stationery
+August,Q3,IT,Travel,Variable,PROJ001,13500,13700,Approved,Vendor visits
+August,Q3,IT,Salaries,Fixed,PROJ004,30500,31000,Approved,Developer salaries
+August,Q3,IT,Equipment,Semi-Variable,PROJ002,18500,19000,Approved,Server upgrades
+August,Q3,IT,Training,Fixed,PROJ009,8800,8900,Approved,Cybersecurity training
+August,Q3,IT,Supplies,Variable,PROJ005,4200,4150,Approved,Office supplies
+August,Q3,Operations,Travel,Variable,PROJ006,9900,9800,Approved,Site visits
+August,Q3,Operations,Salaries,Fixed,PROJ007,27500,27000,Approved,Operations salaries
+August,Q3,Operations,Equipment,Semi-Variable,PROJ002,11800,12000,Pending,Maintenance
+August,Q3,Operations,Training,Fixed,PROJ008,6700,6650,Approved,Health & safety
+August,Q3,Operations,Supplies,Variable,PROJ005,3400,3350,Approved,Warehouse supplies
+August,Q3,HR,Travel,Variable,PROJ001,8800,8900,Approved,Recruitment travel
+August,Q3,HR,Salaries,Fixed,PROJ004,23500,24000,Approved,HR salaries
+August,Q3,HR,Equipment,Semi-Variable,PROJ002,7800,7700,Rejected,Old equipment
+August,Q3,HR,Training,Fixed,PROJ003,5700,5650,Approved,Leadership training
+August,Q3,HR,Supplies,Variable,PROJ005,3000,2950,Approved,Office supplies
+September,Q3,Sales,Travel,Variable,PROJ001,18000,17500,Approved,Client visits
+September,Q3,Sales,Salaries,Fixed,PROJ004,29000,29500,Approved,Monthly salaries
+September,Q3,Sales,Equipment,Semi-Variable,PROJ002,9300,9400,Approved,Laptop upgrades
+September,Q3,Sales,Training,Fixed,PROJ003,6900,7000,Approved,Sales workshop
+September,Q3,Sales,Supplies,Variable,PROJ005,4900,4800,Approved,Office consumables
+September,Q3,Marketing,Travel,Variable,PROJ006,19000,19500,Approved,Trade shows
+September,Q3,Marketing,Salaries,Fixed,PROJ007,27000,26500,Approved,Team salaries
+September,Q3,Marketing,Equipment,Semi-Variable,PROJ002,10200,10100,Pending,Ad hardware
+September,Q3,Marketing,Training,Fixed,PROJ008,7900,7850,Approved,Certifications
+September,Q3,Marketing,Supplies,Variable,PROJ005,3900,3850,Approved,Stationery
+September,Q3,IT,Travel,Variable,PROJ001,14000,14200,Approved,Vendor visits
+September,Q3,IT,Salaries,Fixed,PROJ004,31000,31500,Approved,Developer salaries
+September,Q3,IT,Equipment,Semi-Variable,PROJ002,19000,19500,Approved,Server upgrades
+September,Q3,IT,Training,Fixed,PROJ009,8900,9000,Approved,Cybersecurity training
+September,Q3,IT,Supplies,Variable,PROJ005,4300,4250,Approved,Office supplies
+September,Q3,Operations,Travel,Variable,PROJ006,10000,9950,Approved,Site visits
+September,Q3,Operations,Salaries,Fixed,PROJ007,28000,27500,Approved,Operations salaries
+September,Q3,Operations,Equipment,Semi-Variable,PROJ002,11900,12100,Pending,Maintenance
+September,Q3,Operations,Training,Fixed,PROJ008,6800,6750,Approved,Health & safety
+September,Q3,Operations,Supplies,Variable,PROJ005,3450,3400,Approved,Warehouse supplies
+September,Q3,HR,Travel,Variable,PROJ001,8900,9000,Approved,Recruitment travel
+September,Q3,HR,Salaries,Fixed,PROJ004,24000,24500,Approved,HR salaries
+September,Q3,HR,Equipment,Semi-Variable,PROJ002,7900,7800,Rejected,Old equipment
+September,Q3,HR,Training,Fixed,PROJ003,5800,5750,Approved,Leadership training
+September,Q3,HR,Supplies,Variable,PROJ005,3050,3000,Approved,Office supplies
+October,Q4,Sales,Travel,Variable,PROJ001,18500,18000,Approved,Client visits
+October,Q4,Sales,Salaries,Fixed,PROJ004,29500,30000,Approved,Monthly salaries
+October,Q4,Sales,Equipment,Semi-Variable,PROJ002,9400,9500,Approved,Laptop upgrades
+October,Q4,Sales,Training,Fixed,PROJ003,7000,7100,Approved,Sales workshop
+October,Q4,Sales,Supplies,Variable,PROJ005,5000,4900,Approved,Office consumables
+October,Q4,Marketing,Travel,Variable,PROJ006,19500,20000,Approved,Trade shows
+October,Q4,Marketing,Salaries,Fixed,PROJ007,27500,27000,Approved,Team salaries
+October,Q4,Marketing,Equipment,Semi-Variable,PROJ002,10300,10200,Pending,Ad hardware
+October,Q4,Marketing,Training,Fixed,PROJ008,8000,7950,Approved,Certifications
+October,Q4,Marketing,Supplies,Variable,PROJ005,4000,3950,Approved,Stationery
+October,Q4,IT,Travel,Variable,PROJ001,14500,14700,Approved,Vendor visits
+October,Q4,IT,Salaries,Fixed,PROJ004,31500,32000,Approved,Developer salaries
+October,Q4,IT,Equipment,Semi-Variable,PROJ002,19500,20000,Approved,Server upgrades
+October,Q4,IT,Training,Fixed,PROJ009,9000,9100,Approved,Cybersecurity training
+October,Q4,IT,Supplies,Variable,PROJ005,4400,4350,Approved,Office supplies
+October,Q4,Operations,Travel,Variable,PROJ006,10100,10000,Approved,Site visits
+October,Q4,Operations,Salaries,Fixed,PROJ007,28500,28000,Approved,Operations salaries
+October,Q4,Operations,Equipment,Semi-Variable,PROJ002,12000,12200,Pending,Maintenance
+October,Q4,Operations,Training,Fixed,PROJ008,6900,6850,Approved,Health & safety
+October,Q4,Operations,Supplies,Variable,PROJ005,3500,3450,Approved,Warehouse supplies
+October,Q4,HR,Travel,Variable,PROJ001,9000,9100,Approved,Recruitment travel
+October,Q4,HR,Salaries,Fixed,PROJ004,24500,25000,Approved,HR salaries
+October,Q4,HR,Equipment,Semi-Variable,PROJ002,8000,7900,Rejected,Old equipment
+October,Q4,HR,Training,Fixed,PROJ003,5900,5850,Approved,Leadership training
+October,Q4,HR,Supplies,Variable,PROJ005,3100,3050,Approved,Office supplies
+November,Q4,Sales,Travel,Variable,PROJ001,19000,18500,Approved,Client visits
+November,Q4,Sales,Salaries,Fixed,PROJ004,30000,30500,Approved,Monthly salaries
+November,Q4,Sales,Equipment,Semi-Variable,PROJ002,9500,9600,Approved,Laptop upgrades
+November,Q4,Sales,Training,Fixed,PROJ003,7100,7200,Approved,Sales workshop
+November,Q4,Sales,Supplies,Variable,PROJ005,5100,5000,Approved,Office consumables
+November,Q4,Marketing,Travel,Variable,PROJ006,20000,20500,Approved,Trade shows
+November,Q4,Marketing,Salaries,Fixed,PROJ007,28000,27500,Approved,Team salaries
+November,Q4,Marketing,Equipment,Semi-Variable,PROJ002,10400,10300,Pending,Ad hardware
+November,Q4,Marketing,Training,Fixed,PROJ008,8100,8050,Approved,Certifications
+November,Q4,Marketing,Supplies,Variable,PROJ005,4100,4050,Approved,Stationery
+November,Q4,IT,Travel,Variable,PROJ001,15000,15200,Approved,Vendor visits
+November,Q4,IT,Salaries,Fixed,PROJ004,32000,32500,Approved,Developer salaries
+November,Q4,IT,Equipment,Semi-Variable,PROJ002,20000,20500,Approved,Server upgrades
+November,Q4,IT,Training,Fixed,PROJ009,9100,9200,Approved,Cybersecurity training
+November,Q4,IT,Supplies,Variable,PROJ005,4500,4450,Approved,Office supplies
+November,Q4,Operations,Travel,Variable,PROJ006,10200,10100,Approved,Site visits
+November,Q4,Operations,Salaries,Fixed,PROJ007,29000,28500,Approved,Operations salaries
+November,Q4,Operations,Equipment,Semi-Variable,PROJ002,12100,12300,Pending,Maintenance
+November,Q4,Operations,Training,Fixed,PROJ008,7000,6950,Approved,Health & safety
+November,Q4,Operations,Supplies,Variable,PROJ005,3550,3500,Approved,Warehouse supplies
+November,Q4,HR,Travel,Variable,PROJ001,9100,9200,Approved,Recruitment travel
+November,Q4,HR,Salaries,Fixed,PROJ004,25000,25500,Approved,HR salaries
+November,Q4,HR,Equipment,Semi-Variable,PROJ002,8100,8000,Rejected,Old equipment
+November,Q4,HR,Training,Fixed,PROJ003,6000,5950,Approved,Leadership training
+November,Q4,HR,Supplies,Variable,PROJ005,3150,3100,Approved,Office supplies
+December,Q4,Sales,Travel,Variable,PROJ001,19500,19000,Approved,Client visits
+December,Q4,Sales,Salaries,Fixed,PROJ004,30500,31000,Approved,Monthly salaries
+December,Q4,Sales,Equipment,Semi-Variable,PROJ002,9600,9700,Approved,Laptop upgrades
+December,Q4,Sales,Training,Fixed,PROJ003,7200,7300,Approved,Sales workshop
+December,Q4,Sales,Supplies,Variable,PROJ005,5200,5100,Approved,Office consumables
+December,Q4,Marketing,Travel,Variable,PROJ006,20500,21000,Approved,Trade shows
+December,Q4,Marketing,Salaries,Fixed,PROJ007,28500,28000,Approved,Team salaries
+December,Q4,Marketing,Equipment,Semi-Variable,PROJ002,10500,10400,Pending,Ad hardware
+December,Q4,Marketing,Training,Fixed,PROJ008,8200,8150,Approved,Certifications
+December,Q4,Marketing,Supplies,Variable,PROJ005,4200,4150,Approved,Stationery
+December,Q4,IT,Travel,Variable,PROJ001,15500,15700,Approved,Vendor visits
+December,Q4,IT,Salaries,Fixed,PROJ004,32500,33000,Approved,Developer salaries
+December,Q4,IT,Equipment,Semi-Variable,PROJ002,20500,21000,Approved,Server upgrades
+December,Q4,IT,Training,Fixed,PROJ009,9200,9300,Approved,Cybersecurity training
+December,Q4,IT,Supplies,Variable,PROJ005,4600,4550,Approved,Office supplies
+December,Q4,Operations,Travel,Variable,PROJ006,10300,10200,Approved,Site visits
+December,Q4,Operations,Salaries,Fixed,PROJ007,29500,29000,Approved,Operations salaries
+December,Q4,Operations,Equipment,Semi-Variable,PROJ002,12200,12400,Pending,Maintenance
+December,Q4,Operations,Training,Fixed,PROJ008,7100,7050,Approved,Health & safety
+December,Q4,Operations,Supplies,Variable,PROJ005,3600,3550,Approved,Warehouse supplies
+December,Q4,HR,Travel,Variable,PROJ001,9200,9300,Approved,Recruitment travel
+December,Q4,HR,Salaries,Fixed,PROJ004,25500,26000,Approved,HR salaries
+December,Q4,HR,Equipment,Semi-Variable,PROJ002,8200,8100,Rejected,Old equipment
+December,Q4,HR,Training,Fixed,PROJ003,6100,6050,Approved,Leadership training
+December,Q4,HR,Supplies,Variable,PROJ005,3200,3150,Approved,Office supplies
