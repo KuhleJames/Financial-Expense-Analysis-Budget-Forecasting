@@ -232,16 +232,21 @@ The model follows a star schema layout with a central fact table and supporting 
 #### Fact Table
 - Fact_Expenses
 Contains all measurable values such as:
+
   - Budgeted Amount
+
 ![Image Failed to Load](assets/images/Total_Budgeted.png)
 
   - Actual Spend
+    
 ![Image Failed to Load](assets/images/Total_Actual.png)
 
   - Budget Variance
+    
 ![Image Failed to Load](assets/images/Budget_Variance.png)
 
   - Budget Variance %
+    
 ![Image Failed to Load](assets/images/Budget_Variance_%.png)
 
   - Budget Utilization
