@@ -231,29 +231,24 @@ The model follows a star schema layout with a central fact table and supporting 
 
 #### Fact Table
 - Fact_Expenses
-Contains all measurable values such as:
-
-  - Budgeted Amount
-
-![Image Failed to Load](assets/images/Total_Budgeted.png)
-
-  - Actual Spend
-    
-![Image Failed to Load](assets/images/Total_Actual.png)
-
-  - Budget Variance
-    
-![Image Failed to Load](assets/images/Budget_Variance.png)
-
-  - Budget Variance %
-    
-![Image Failed to Load](assets/images/Budget_Variance_%.png)
-
-  - Budget Utilization
-![Image Failed to Load](assets/images/Budget_Utilization.png)
-
-
-
+  - Contains all measurable values such as:
+    - Budgeted Amount
+    - Actual Amount
+    - Approval Status
+    - Cost Category
+#### Dimensions Table
+- Dim_Department — maps department names for drilldown
+- Dim_Date — captures month, quarter, and year values
+- Dim_Cost_Type — categorizes costs as Fixed, Variable, or Semi-Variable
+- Dim_Approval — supports status-level filtering (Approved, Rejected, Pending)—
+This structure supports slicing and filtering across departments, time periods, projects and expense types.
+### Table Relationship
+The tables were related in a one-to-many structure:
+- Dim_Department[Department] → Fact_Expenses[Department]
+- Dim_Date[Month] → Fact_Expenses[Month]
+- Dim_Cost_Type[Cost Type] → Fact_Expenses[Cost Type]
+- Dim_Approval[Approval Status] → Fact_Expenses[Approval Status]
+This layout allowed for efficient filtering and slicing across the dashboard, enabling multi-dimensional analysis (e.g., budget trends over time per department and cost type).
 
 
 
