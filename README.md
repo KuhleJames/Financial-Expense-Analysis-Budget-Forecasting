@@ -116,17 +116,30 @@ The dataset was structured in a flat format, where each row represented a unique
 | --- | --- |
 | Month | Reporting month (e.g., January, February) |
 | Quarter | Fiscal quarter (e.g., Q1, Q2) |
-| Department | 	Department responsible for the budget line |
-| Cost Category | Expense category (e.g., IT, HR, Marketing) |
-| Cost Type | Nature of expense (e.g., OPEX, CAPEX) |
+| Department | 	Department responsible for the budget line (e.g., IT, HR, Marketing, Operations, Sales) |
+| Cost Category | Expense category (e.g., Travel, Salaries, Equipment, Supplies, Training) |
+| Cost Type | Nature of expense (e.g., Fixed, Semi-Varibale, Variable) |
 | Project Code | Identifier for specific project or initiative |
 | Budgeted Amount | Planned/allocated financial amount |
 | Actual Amount | Actual amount spent for the entry |
 | Approval Status | Whether the expense was approved, pending, or rejected |
 | Comments | Additional notes or justifications for the entry |
-
-
-
+## Data Preparation
+To ensure high data quality and reliable insights, the raw dataset underwent a comprehensive preparation process in Excel and PostgreSQL.
+### Initial Cleaning (Excel)
+- Removed duplicate rows to eliminate redundancy.
+- Standardised column names (e.g., lowercase, underscores instead of spaces).
+- Cleaned column values for consistency — especially in Department, Cost Category, and Approval Status (e.g., fixed typos, consistent casing).
+### Data Type Formatting
+- Converted Month and Quarter columns to categorical values.
+- Formatted Budgeted Amount and Actual Amount as numeric (float).
+- Parsed Project Code as text to retain leading zeros if any.
+### Derived Columns
+To enhance analysis and modeling:
+| New Column | Logic |
+| --- | ---|
+| Variance | Budgeted Amount - Actual Amount |
+| Variance % | ((Budgeted - Actual) / Budgeted) * 100 (handled div-by-zero) |
 
 
 
