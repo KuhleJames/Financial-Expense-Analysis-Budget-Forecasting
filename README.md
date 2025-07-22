@@ -307,9 +307,9 @@ Both pages include interactive features designed to help users filter, focus, an
 - Cross-Filtering Enabled:
   - Clicking on one visual dynamically filters others to allow multi-angle exploration.
 
-![Image Failed to Load](assets/images/Expense_Budget_&_Forecast_Dashboard_1.png)
+![Image Failed to Load](assets/images/Expense_Budget_&_Forecast_Dashboard_1.jpg)
 
-![Image Failed to Load](assets/images/Expense_Budget_&_Forecast_Dashboard_2.png)
+![Image Failed to Load](assets/images/Expense_Budget_&_Forecast_Dashboard_2.jpg)
 
 ## Key Insights
 
