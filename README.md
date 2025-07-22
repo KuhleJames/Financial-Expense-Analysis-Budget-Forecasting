@@ -248,6 +248,7 @@ The tables were related in a one-to-many structure:
 - Dim_Date[Month] → Fact_Expenses[Month]
 - Dim_Cost_Type[Cost Type] → Fact_Expenses[Cost Type]
 - Dim_Approval[Approval Status] → Fact_Expenses[Approval Status]
+
 This layout allowed for efficient filtering and slicing across the dashboard, enabling multi-dimensional analysis (e.g., budget trends over time per department and cost type).
 
 
