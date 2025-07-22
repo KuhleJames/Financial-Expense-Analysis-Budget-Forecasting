@@ -169,6 +169,8 @@ GROUP BY quarter, department
 ORDER BY quarter, department;
 
 ```
+![Image Failed to Load](assets/images/Spending_Trend_Across_Quarters.png)
+
 - What is the total approved vs unapproved amount per cost type?
 ``` sql
 
@@ -182,6 +184,8 @@ GROUP BY cost_type, approval_status
 ORDER BY cost_type, approval_status;
 
 ```
+![Image Failed to Load](assets/images/Total_Approved_vs_Unapproved.png)
+
 - How much does each cost type contribute to total expenses?
 ``` sql
 
@@ -199,6 +203,8 @@ GROUP BY cost_type
 ORDER BY total_expenses DESC;
 
 ```
+![Image Failed to Load](assets/images/Cost_Type_Contributuion_to_Expenses.png)
+
 - Which projects are driving most of the over-budget spend?
 ``` sql
 
@@ -216,6 +222,6 @@ ORDER BY overage DESC
 LIMIT 5;
 
 ```
-
+![Image Failed to Load](assets/images/Projects_Driving_OverSpend.png)
 
 
