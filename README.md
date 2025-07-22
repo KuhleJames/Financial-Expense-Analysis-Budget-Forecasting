@@ -158,6 +158,8 @@ ORDER BY variance DESC
 LIMIT 5;
 
 ```
+![Image Failed to Load](assets/images/Top_5_Categories_Over_Budget.png)
+
 - How does spending trend across quarters for each department?
 ``` sql
 
