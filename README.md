@@ -251,6 +251,35 @@ The tables were related in a one-to-many structure:
 
 This layout allowed for efficient filtering and slicing across the dashboard, enabling multi-dimensional analysis (e.g., budget trends over time per department and cost type).
 
+## DAX Calculations
+To drive insights and enable KPI tracking, a set of calculated measures were developed using DAX (Data Analysis Expressions). These measures were grouped logically into categories to align with the business objectives and dashboard layout.
+### Core Measures
+#### Budget KPIs
+- Total Budgeted Amount = SUM(Fact_Expenses[Budgeted Amount])
+- Total Actual Amount = SUM(Fact_Expenses[Actual Amount])
+- Budget Variance = [Total Actual] - [Total Budgeted]
+- Budget Variance % = DIVIDE([Budget Variance], [Total Budgeted], 0)
+- Budget Utilization % = DIVIDE([Total Actual], [Total Budgeted], 0)
+#### Approval KPIs
+- Total Approved = CALCULATE([Total Actual], Dim_Approval[Approval Status] = "Approved")
+- Total Pending = CALCULATE([Total Actual], Dim_Approval[Approval Status] = "Pending")
+- Total Rejected = CALCULATE([Total Actual], Dim_Approval[Approval Status] = "Rejected")
+#### Cost_Type KPIs
+- Total Fixed Costs = CALCULATE([Total Actual], Dim_Cost_Type[Cost Type] = "Fixed")
+- Fixed Cost % of Total = DIVIDE([Total Fixed Costs], [Total Actual])
+- Total Semi-Variable Costs = CALCULATE([Total Actual], Dim_Cost_Type[Cost Type] = "Semi-Variable")
+- Semi-Variable Cost % of Total = DIVIDE([Total Semi-Variable Costs], [Total Actual])
+- Total Variable Costs = CALCULATE([Total Actual], Dim_Cost_Type[Cost Type] = "Variable")
+- Variable Cost % of Total = DIVIDE([Total Variable Costs], [Total Actual])
+#### Forecast KPIs
+- Forecast Actual = [Total Budgeted]
+- Forecast Error % = DIVIDE([Total Actual] - [Forecast Actual], [Forecast Actual])
+- Forecasted Accuracy % = 1 - ABS([forecast Error %])
+
+
+
+
+
 
 
 
