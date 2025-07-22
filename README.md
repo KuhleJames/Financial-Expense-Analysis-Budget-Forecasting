@@ -326,7 +326,7 @@ Departments like [insert example: “Operations”] had higher-than-average pend
 ### Recommendations
 - Implement Monthly Budget Reviews:
 To manage departments with fluctuating spend more proactively, set up monthly review checkpoints.
-  - Investigate High Variable Costs:
+- Investigate High Variable Costs:
 A deeper analysis of variable cost contributors may help identify cost-saving opportunities or renegotiation of supplier contracts.
 - Targeted Training for Budget Overspenders:
 Equip departments with better forecasting tools or training, especially those frequently exceeding budget.
