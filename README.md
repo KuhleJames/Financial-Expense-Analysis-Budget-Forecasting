@@ -140,19 +140,84 @@ To enhance analysis and modeling:
 | --- | ---|
 | Variance | Budgeted Amount - Actual Amount |
 | Variance % | ((Budgeted - Actual) / Budgeted) * 100 (handled div-by-zero) |
+## SQL Analysis
+Structured querying in PostgreSQL helped transform raw data into actionable insights by addressing key business questions around budget utilisation, cost segmentation, and forecasting.
+- What are the top 5 categories or departments consistently over budget?
+``` sql
 
+SELECT 
+	cost_category, 
+	department, 
+	SUM(budgeted_amount) AS total_budget, 
+	SUM(actual_amount) AS total_actual, 
+	SUM(actual_amount) - SUM(budgeted_amount) AS variance,
+	ROUND(SUM(actual_amount) - SUM(budgeted_amount) / NULLIF(SUM(budgeted_amount), 0) * 100.0, 2) AS variance_pct
+FROM finance
+GROUP BY cost_category, department
+ORDER BY variance DESC
+LIMIT 5;
 
+```
+- How does spending trend across quarters for each department?
 
+``` sql
 
+SELECT quarter, department, SUM(actual_amount) AS total_spend
+FROM finance
+GROUP BY quarter, department
+ORDER BY quarter, department;
 
+```
+- What is the total approved vs unapproved amount per cost type?
 
+`` sql
 
+SELECT 
+	cost_type, 
+	approval_status,
+	SUM(actual_amount) AS total_amount,
+	COUNT(*) AS num_records
+FROM finance
+GROUP BY cost_type, approval_status
+ORDER BY cost_type, approval_status;
 
+```
+- How much does each cost type contribute to total expenses?
 
+``` sql
 
+SELECT 
+	cost_type, 
+	COUNT(*) AS num_records,
+	SUM(actual_amount) AS total_expenses,
+	ROUND(SUM(actual_amount) / 
+	(
+		SELECT SUM(actual_amount) 
+		FROM finance
+	) * 100.0, 2)  AS percent_of_total
+FROM finance
+GROUP BY cost_type
+ORDER BY total_expenses DESC;
 
+```
+- Which projects are driving most of the over-budget spend?
 
+``` sql
 
+SELECT 
+	project_code, 
+	department,
+	SUM(budgeted_amount) AS total_budget,
+	SUM(actual_amount) AS total_actual,
+	SUM(actual_amount) - SUM(budgeted_amount) AS overage,
+	ROUND(SUM(actual_amount) - SUM(budgeted_amount) / NULLIF(SUM(actual_amount), 0), 2) AS overage_pct
+FROM finance
+GROUP BY project_code, department
+HAVING SUM(actual_amount) > SUM(budgeted_amount)
+ORDER BY overage DESC
+LIMIT 5;
+
+```
 
 
 
