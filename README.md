@@ -254,29 +254,46 @@ This layout allowed for efficient filtering and slicing across the dashboard, en
 ## DAX Calculations
 To drive insights and enable KPI tracking, a set of calculated measures were developed using DAX (Data Analysis Expressions). These measures were grouped logically into categories to align with the business objectives and dashboard layout.
 ### Core Measures
-#### Budget KPIs
 - Total Budgeted Amount = SUM(Fact_Expenses[Budgeted Amount])
 - Total Actual Amount = SUM(Fact_Expenses[Actual Amount])
-- Budget Variance = [Total Actual] - [Total Budgeted]
-- Budget Variance % = DIVIDE([Budget Variance], [Total Budgeted], 0)
-- Budget Utilization % = DIVIDE([Total Actual], [Total Budgeted], 0)
-#### Approval KPIs
 - Total Approved = CALCULATE([Total Actual], Dim_Approval[Approval Status] = "Approved")
 - Total Pending = CALCULATE([Total Actual], Dim_Approval[Approval Status] = "Pending")
 - Total Rejected = CALCULATE([Total Actual], Dim_Approval[Approval Status] = "Rejected")
-#### Cost_Type KPIs
-- Total Fixed Costs = CALCULATE([Total Actual], Dim_Cost_Type[Cost Type] = "Fixed")
-- Fixed Cost % of Total = DIVIDE([Total Fixed Costs], [Total Actual])
-- Total Semi-Variable Costs = CALCULATE([Total Actual], Dim_Cost_Type[Cost Type] = "Semi-Variable")
-- Semi-Variable Cost % of Total = DIVIDE([Total Semi-Variable Costs], [Total Actual])
-- Total Variable Costs = CALCULATE([Total Actual], Dim_Cost_Type[Cost Type] = "Variable")
-- Variable Cost % of Total = DIVIDE([Total Variable Costs], [Total Actual])
-#### Forecast KPIs
+### Variance & Forecast Metrics
+- Budget Variance = [Total Actual] - [Total Budgeted]
+- Budget Variance % = DIVIDE([Budget Variance], [Total Budgeted], 0)
+- Budget Utilization % = DIVIDE([Total Actual], [Total Budgeted], 0)
 - Forecast Actual = [Total Budgeted]
 - Forecast Error % = DIVIDE([Total Actual] - [Forecast Actual], [Forecast Actual])
 - Forecasted Accuracy % = 1 - ABS([forecast Error %])
+## Dashboard Design
+### Visuals Used
+#### Page 1: Budget & Spend Overview
+##### Objective: Understand how departments are managing their budgets, actuals, and approvals.
+- KPI Cards (Top Row):
+  - Total Budget
+  - Total Actual
+  - Budget Variance
+  - Budget Utilization %
+- Clustered Column Chart – Budget vs Actual by Department
+- Line & Column Chart – Budget Trend Over Time
+- Bar Chart – Budget Variance by Department
+- Tree Map – Actual Spend by Cost Category
+#### Page 2: Forecast & Approvals Performance
+##### Objective: Evaluate forecast accuracy and track approval statuses.
+- KPI Cards (Top Row)
+  - Forecast Accuracy %
+  - Forecast Error %
+  - Total Approved
+  - Total Pending
+- Line Chart – Forecast vs Actual Spend Over Time
+- Donut Chart – Approval Status Breakdown
+- Stacked Bar Chart – Pending Approvals by Department
+- Bar Chart – Forecast Error by Department
 
 
+
+ 
 
 
 
