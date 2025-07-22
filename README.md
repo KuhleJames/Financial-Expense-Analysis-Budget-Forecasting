@@ -312,6 +312,29 @@ Both pages include interactive features designed to help users filter, focus, an
 ![Image Failed to Load](assets/images/Expense_Budget_&_Forecast_Dashboard_2.jpg)
 
 ## Key Insights
+### Trends Identified
+- Budget Management Varies by Department:
+Some departments consistently overspent or underspent. For instance, [insert example: “Marketing showed a consistent overspend trend in Q2 and Q3”], while others remained on target.
+- High Budget Utilization Rates:
+Overall budget utilization remained above 90%, indicating strong alignment with allocated budgets, but also signaling minimal flexibility for unforeseen expenses.
+- Cost Type Distribution is Uneven:
+Variable costs formed a large portion of actual spending, suggesting high dependence on scalable or project-based expenses.
+- Forecast Accuracy was High:
+The forecast accuracy rate reached 99.59%, indicating excellent predictability in spending patterns.
+- Approval Bottlenecks in Certain Departments:
+Departments like [insert example: “Operations”] had higher-than-average pending or rejected approvals, potentially affecting timely execution.
+### Recommendations
+- Implement Monthly Budget Reviews:
+To manage departments with fluctuating spend more proactively, set up monthly review checkpoints.
+  - Investigate High Variable Costs:
+A deeper analysis of variable cost contributors may help identify cost-saving opportunities or renegotiation of supplier contracts.
+- Targeted Training for Budget Overspenders:
+Equip departments with better forecasting tools or training, especially those frequently exceeding budget.
+- Streamline the Approval Process:
+Consider automating or revising the approval flow for faster processing and better spend governance.
+- Forecasting Model Deployment:
+Operationalize the current forecasting logic to continuously monitor forecast errors and pre-empt deviations before they occur.
+
 
 
 
