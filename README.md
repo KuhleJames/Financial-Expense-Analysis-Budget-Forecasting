@@ -224,4 +224,46 @@ LIMIT 5;
 ```
 ![Image Failed to Load](assets/images/Projects_Driving_OverSpend.png)
 
+## Data Modeling
+To enable efficient analysis and dashboard performance, a star schema was designed to organise the dataset into fact and dimension tables. This approach ensured scalable data integration and streamlined DAX calculations in Power BI.
+### Star Schema Design
+The model follows a star schema layout with a central fact table and supporting dimension tables:
+
+#### Fact Table
+- Fact_Expenses
+Contains all measurable values such as:
+  - Budgeted Amount
+![Image Failed to Load](assets/images/Total_Budgeted.png)
+
+  - Actual Spend
+![Image Failed to Load](assets/images/Total_Actual.png)
+
+  - Budget Variance
+![Image Failed to Load](assets/images/Budget_Variance.png)
+
+  - Budget Variance %
+![Image Failed to Load](assets/images/Budget_Variance_%.png)
+
+  - Budget Utilization
+![Image Failed to Load](assets/images/Budget_Utilization.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
