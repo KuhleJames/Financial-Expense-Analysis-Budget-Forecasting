@@ -159,7 +159,6 @@ LIMIT 5;
 
 ```
 - How does spending trend across quarters for each department?
-
 ``` sql
 
 SELECT quarter, department, SUM(actual_amount) AS total_spend
@@ -169,8 +168,7 @@ ORDER BY quarter, department;
 
 ```
 - What is the total approved vs unapproved amount per cost type?
-
-`` sql
+``` sql
 
 SELECT 
 	cost_type, 
@@ -183,7 +181,6 @@ ORDER BY cost_type, approval_status;
 
 ```
 - How much does each cost type contribute to total expenses?
-
 ``` sql
 
 SELECT 
@@ -201,7 +198,6 @@ ORDER BY total_expenses DESC;
 
 ```
 - Which projects are driving most of the over-budget spend?
-
 ``` sql
 
 SELECT 
