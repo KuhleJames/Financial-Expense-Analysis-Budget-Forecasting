@@ -290,6 +290,24 @@ To drive insights and enable KPI tracking, a set of calculated measures were dev
 - Donut Chart – Approval Status Breakdown
 - Stacked Bar Chart – Pending Approvals by Department
 - Bar Chart – Forecast Error by Department
+### User Interaction & Features
+Both pages include interactive features designed to help users filter, focus, and drill into insights:
+- Slicers (Page 1 Sidebar):
+  - Department
+  - Month
+  - Cost Category
+  - Cost Type
+- Slicers (Page 2 Sidebar):
+  - Month
+  - Department
+  - Approval Status
+  - Cost Category
+- Tooltip Enhancements:
+  - KPI and trend visuals include tooltips explaining calculation logic (e.g., how forecast accuracy is computed).
+- Cross-Filtering Enabled:
+  - Clicking on one visual dynamically filters others to allow multi-angle exploration.
+## Key Insights & Recommendations
+
 
 
 
