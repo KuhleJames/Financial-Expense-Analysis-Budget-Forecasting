@@ -306,7 +306,12 @@ Both pages include interactive features designed to help users filter, focus, an
   - KPI and trend visuals include tooltips explaining calculation logic (e.g., how forecast accuracy is computed).
 - Cross-Filtering Enabled:
   - Clicking on one visual dynamically filters others to allow multi-angle exploration.
-## Key Insights & Recommendations
+
+![Image Failed to Load](assets/images/Expense_Budget_&_Forecast_Dashboard_1.png)
+
+![Image Failed to Load](assets/images/Expense_Budget_&_Forecast_Dashboard_2.png)
+
+## Key Insights
 
 
 
