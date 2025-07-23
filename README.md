@@ -322,20 +322,22 @@ Both pages include interactive features designed to help users filter, focus, an
 - Approval Workflow Delays
   - While most expenses were approved (88%), the Operations and Marketing departments experienced the highest number of pending approvals (25 total), which may indicate process inefficiencies or bottlenecks. Additionally, 12 requests were rejected, all from HR.
 ### Recommendations
-- Implement Monthly Budget Reviews:
-  - To manage departments with fluctuating spend more proactively, set up monthly review checkpoints.
+- Strengthen Budget Controls in IT
+  - Investigate the root causes of IT’s recurring overspending and implement tighter controls, quarterly reviews, or real-time budget tracking to reduce budget variance.
 
-- Investigate High Variable Costs:
-  - A deeper analysis of variable cost contributors may help identify cost-saving opportunities or renegotiation of supplier contracts.
+- Introduce Flexible Budgeting Frameworks
+  - Adopt a more dynamic budgeting approach (e.g., rolling forecasts or scenario planning) to better accommodate departments with fluctuating financial needs.
 
-- Targeted Training for Budget Overspenders:
-  - Equip departments with better forecasting tools or training, especially those frequently exceeding budget.
+- Optimise Cost Allocation Strategy
+  - Reevaluate cost structures to reduce reliance on fixed expenses and explore opportunities to shift toward more variable or scalable cost models for improved financial agility.
 
-- Streamline the Approval Process:
-  - Consider automating or revising the approval flow for faster processing and better spend governance.
+- Improve Approval Workflow Efficiency
+  - Streamline the approval process—especially in IT and Marketing—by introducing automation or setting clearer timelines and escalation paths to reduce bottlenecks and speed up decision-making.
 
-- Forecasting Model Deployment:
-  - Operationalise the current forecasting logic to continuously monitor forecast errors and pre-empt deviations before they occur.
+- Address Rejection Patterns in HR
+  - Review rejected submissions in HR to identify training needs, guideline misalignment, or documentation gaps, ensuring future requests align with approval criteria.
+
+
 
 
 
