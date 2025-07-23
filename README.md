@@ -314,13 +314,13 @@ Both pages include interactive features designed to help users filter, focus, an
 ## Key Insights
 ### Trends Identified
 - Departmental Budget Overspending Patterns
-IT consistently exceeded its allocated budget across all four quarters, while other departments only overspent in Q1, suggesting differing levels of financial discipline or operational demands.
+  - IT consistently exceeded its allocated budget across all four quarters, while other departments only overspent in Q1, suggesting differing levels of financial discipline or operational demands.
 - Near-Full Budget Utilisation
-The organisation utilised 100.41% of its total allocated budget, indicating tight budget margins with limited flexibility for unexpected costs.
+  - The organisation utilised 100.41% of its total allocated budget, indicating tight budget margins with limited flexibility for unexpected costs.
 - Uneven Cost Type Allocation
-Fixed costs account for the largest portion of total expenses, followed by variable costs. Semi-variable costs made up the smallest share, reflecting potentially inflexible cost structures.
+  - Fixed costs account for the largest portion of total expenses, followed by variable costs. Semi-variable costs made up the smallest share, reflecting potentially inflexible cost structures.
 - Approval Workflow Delays
-While most expenses were approved (88%), the IT and Marketing departments experienced the highest number of pending approvals (25 total), which may indicate process inefficiencies or bottlenecks. Additionally, 12 requests were rejected, all from HR.
+  - While most expenses were approved (88%), the IT and Marketing departments experienced the highest number of pending approvals (25 total), which may indicate process inefficiencies or bottlenecks. Additionally, 12 requests were rejected, all from HR.
 ### Recommendations
 - Implement Monthly Budget Reviews:
 To manage departments with fluctuating spend more proactively, set up monthly review checkpoints.
