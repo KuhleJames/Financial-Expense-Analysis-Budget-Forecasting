@@ -1,6 +1,6 @@
 # Financial Expense Analysis & Budget Forecasting
 
-
+![Image Failed to Load](assets/images/Financial_Expenses_Analysis.png)
 
 
 
