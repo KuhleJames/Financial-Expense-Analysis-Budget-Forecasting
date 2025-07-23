@@ -314,7 +314,7 @@ Both pages include interactive features designed to help users filter, focus, an
 ## Key Insights
 ### Trends Identified
 - Budget Management Varies by Department:
-Some departments consistently overspent or underspent. For instance, [insert example: “Marketing showed a consistent overspend trend in Q2 and Q3”], while others remained on target.
+Some departments consistently overspent or underspent. For instance, IT showed a consistent overspend trend from Q1 to Q4, while others remained on target.
 - High Budget Utilization Rates:
 Overall budget utilization remained above 90%, indicating strong alignment with allocated budgets, but also signaling minimal flexibility for unforeseen expenses.
 - Cost Type Distribution is Uneven:
