@@ -239,7 +239,7 @@ The model follows a star schema layout with a central fact table and supporting 
 #### Dimensions Table
 - Dim_Department — maps department names for drilldown
 - Dim_Date — captures month, quarter, and year values
-- Dim_Cost_Type — categorizes costs as Fixed, Variable, or Semi-Variable
+- Dim_Cost_Type — categorises costs as Fixed, Variable, or Semi-Variable
 - Dim_Approval — supports status-level filtering (Approved, Rejected, Pending)—
 This structure supports slicing and filtering across departments, time periods, projects and expense types.
 ### Table Relationship
