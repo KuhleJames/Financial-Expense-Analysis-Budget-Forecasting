@@ -320,19 +320,22 @@ Both pages include interactive features designed to help users filter, focus, an
 - Uneven Cost Type Allocation
   - Fixed costs account for the largest portion of total expenses, followed by variable costs. Semi-variable costs made up the smallest share, reflecting potentially inflexible cost structures.
 - Approval Workflow Delays
-  - While most expenses were approved (88%), the IT and Marketing departments experienced the highest number of pending approvals (25 total), which may indicate process inefficiencies or bottlenecks. Additionally, 12 requests were rejected, all from HR.
+  - While most expenses were approved (88%), the Operations and Marketing departments experienced the highest number of pending approvals (25 total), which may indicate process inefficiencies or bottlenecks. Additionally, 12 requests were rejected, all from HR.
 ### Recommendations
 - Implement Monthly Budget Reviews:
-To manage departments with fluctuating spend more proactively, set up monthly review checkpoints.
-- Investigate High Variable Costs:
-A deeper analysis of variable cost contributors may help identify cost-saving opportunities or renegotiation of supplier contracts.
-- Targeted Training for Budget Overspenders:
-Equip departments with better forecasting tools or training, especially those frequently exceeding budget.
-- Streamline the Approval Process:
-Consider automating or revising the approval flow for faster processing and better spend governance.
-- Forecasting Model Deployment:
-Operationalize the current forecasting logic to continuously monitor forecast errors and pre-empt deviations before they occur.
+  - To manage departments with fluctuating spend more proactively, set up monthly review checkpoints.
 
+- Investigate High Variable Costs:
+  - A deeper analysis of variable cost contributors may help identify cost-saving opportunities or renegotiation of supplier contracts.
+
+- Targeted Training for Budget Overspenders:
+  - Equip departments with better forecasting tools or training, especially those frequently exceeding budget.
+
+- Streamline the Approval Process:
+  - Consider automating or revising the approval flow for faster processing and better spend governance.
+
+- Forecasting Model Deployment:
+  - Operationalize the current forecasting logic to continuously monitor forecast errors and pre-empt deviations before they occur.
 
 
 
