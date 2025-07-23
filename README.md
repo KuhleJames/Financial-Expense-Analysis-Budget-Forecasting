@@ -335,7 +335,7 @@ Both pages include interactive features designed to help users filter, focus, an
   - Consider automating or revising the approval flow for faster processing and better spend governance.
 
 - Forecasting Model Deployment:
-  - Operationalize the current forecasting logic to continuously monitor forecast errors and pre-empt deviations before they occur.
+  - Operationalise the current forecasting logic to continuously monitor forecast errors and pre-empt deviations before they occur.
 
 
 
