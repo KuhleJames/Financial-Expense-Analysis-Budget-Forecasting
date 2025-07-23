@@ -118,7 +118,7 @@ The dataset was structured in a flat format, where each row represented a unique
 | Quarter | Fiscal quarter (e.g., Q1, Q2) |
 | Department | 	Department responsible for the budget line (e.g., IT, HR, Marketing, Operations, Sales) |
 | Cost Category | Expense category (e.g., Travel, Salaries, Equipment, Supplies, Training) |
-| Cost Type | Nature of expense (e.g., Fixed, Semi-Varibale, Variable) |
+| Cost Type | Nature of expense (e.g., Fixed, Semi-Variable, Variable) |
 | Project Code | Identifier for specific project or initiative |
 | Budgeted Amount | Planned/allocated financial amount |
 | Actual Amount | Actual amount spent for the entry |
