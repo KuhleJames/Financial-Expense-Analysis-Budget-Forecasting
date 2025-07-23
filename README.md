@@ -139,7 +139,7 @@ To enhance analysis and modeling:
 | New Column | Logic |
 | --- | ---|
 | Variance | Budgeted Amount - Actual Amount |
-| Variance % | ((Budgeted - Actual) / Budgeted) * 100 (handled div-by-zero) |
+| Variance % | (Budgeted - Actual) / Budgeted) * 100 |
 ## SQL Analysis
 Structured querying in PostgreSQL helped transform raw data into actionable insights by addressing key business questions around budget utilisation, cost segmentation, and forecasting.
 - What are the top 5 categories or departments consistently over budget?
